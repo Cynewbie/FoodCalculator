@@ -1,0 +1,24 @@
+﻿商品#1
+商品名asdfas
+円/g: 937.7円
+脂肪約: 2976.9g
+kcal/g: 1.6kcal
+
+商品#2
+商品名asdfasa
+円/g: 937.7円
+脂肪約: 2976.9g
+kcal/g: 1.6kcal
+
+商品#3
+商品名asdfasaa
+円/g: 937.7円
+脂肪約: 2976.9g
+kcal/g: 1.6kcal
+
+商品#4
+商品名asdfasaaa
+円/g: 937.7円
+脂肪約: 2976.9g
+kcal/g: 1.6kcal
+
