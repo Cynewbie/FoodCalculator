@@ -8,7 +8,6 @@ using TMPro;
 using System;
 
 
-//test
 public class Gamemanager : MonoBehaviour
 {
     public string[] title= new string[256];
